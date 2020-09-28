@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="nav_graph" type="id" />
+
+    <item name="teamListFragment" type="id" />
+    <item name="teamFragment" type="id"/>
+
+    <item name="main_activity_container" type="id"/>
+
+    <item name="team_name_text_view" type="id"/>
+    <item name="team_name_wins_text_view" type="id"/>
+    <item name="team_name_losses_text_view" type="id"/>
+    <item name="team_name_wins_image_view" type="id"/>
+    <item name="team_name_losses_image_view"  type="id"/>
+    <item name="team_name_container" type="id"/>
+
+    <item name="team_list_recycler_view" type="id"/>
+
+</resources>

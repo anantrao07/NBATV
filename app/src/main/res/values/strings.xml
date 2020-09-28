@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NBA TeamViewer</string>
+    <string name="team_name">Team Name</string>
+    <string name="wins">Wins</string>
+    <string name="no_of_wins">Wins: %1$s</string>
+    <string name="no_of_loose">Loose: %1$s</string>
+    <string name="first_name">FirstName</string>
+    <string name="last_name">LastName</string>
+    <string name="player_number">Number %1$s</string>
+    <string name="player_position">Position %1$s</string>
+    <string name="menu_sort_by_name">Sort Alphabetically</string>
+    <string name="menu_sort_by_wins">Sort By Wins</string>
+    <string name="menu_sort_by_looses">Sort By Looses</string>
+</resources>

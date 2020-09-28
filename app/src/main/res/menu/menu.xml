@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_sort_by_name"
+        android:title="@string/menu_sort_by_name"
+        app:showAsAction="collapseActionView" />
+    <item android:id="@+id/menu_sort_by_wins"
+        android:title="@string/menu_sort_by_wins" />
+    <item android:id="@+id/sort_by_looses"
+        android:title="@string/menu_sort_by_looses" />
+</menu>
